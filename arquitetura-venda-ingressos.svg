@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1184" viewBox="0 0 1120 1184">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 1.2 L 9 5 L 0 8.8 Z" fill="#243140"/>
+    </marker>
+    <clipPath id="clip-store-1"><rect x="26" y="564" width="332" height="140" rx="14"/></clipPath>
+    <clipPath id="clip-store-2"><rect x="394" y="564" width="332" height="140" rx="14"/></clipPath>
+    <clipPath id="clip-store-3"><rect x="762" y="564" width="332" height="140" rx="14"/></clipPath>
+
+  </defs>
+  <rect width="1120" height="1184" fill="#F4F7FB"/>
+  <rect width="1120" height="112" fill="#102033"/>
+
+<text x="560" y="32" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="12" font-weight="700" fill="#E6B54A" text-anchor="middle">ARQUITETURA   ·   MEGA SHOW   ·   ESTOQUE LIMITADO</text>
+<text x="560" y="66" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="26" font-weight="700" fill="#F7F9FC" text-anchor="middle">Venda de ingressos sob concorrência extrema</text>
+<text x="560" y="94" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#C9D4E3" text-anchor="middle">A demanda para na fila. A ordem é do servidor. A venda só fecha com reserva.</text>
+<rect x="26" y="136" width="332" height="408" rx="16" fill="#E7F2FA"/>
+<path d="M 42 136 H 342 Q 358 136 358 152 V 192 H 26 V 152 Q 26 136 42 136 Z" fill="#1F6FA5"/>
+<text x="46" y="171" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">1   ·   Absorve o pico</text>
+<text x="46" y="224" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#14527A" text-anchor="start">Usuários</text>
+<text x="46" y="250" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Milhões entram juntos.</text>
+<text x="46" y="274" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Rede lenta não fura a fila.</text>
+<line x1="44" y1="309" x2="340" y2="309" stroke="#C5DDEF" stroke-width="1.5"/>
+<text x="46" y="341" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#14527A" text-anchor="start">CDN e WAF</text>
+<text x="46" y="367" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Site estático e anti-bot.</text>
+<text x="46" y="391" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">O pico morre na borda.</text>
+<line x1="44" y1="426" x2="340" y2="426" stroke="#C5DDEF" stroke-width="1.5"/>
+<text x="46" y="458" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#14527A" text-anchor="start">API protegida</text>
+<text x="46" y="484" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">A compra não recebe</text>
+<text x="46" y="508" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">esse volume de tráfego.</text>
+<rect x="394" y="136" width="332" height="408" rx="16" fill="#FFF4E4"/>
+<path d="M 410 136 H 710 Q 726 136 726 152 V 192 H 394 V 152 Q 394 136 410 136 Z" fill="#C4841A"/>
+<text x="414" y="171" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">2   ·   Fila justa</text>
+<text x="414" y="224" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#8A5A0A" text-anchor="start">Sala de espera</text>
+<text x="414" y="250" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Fila FIFO. A posição nasce</text>
+<text x="414" y="274" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">no relógio do servidor.</text>
+<line x1="412" y1="309" x2="708" y2="309" stroke="#F0D7A8" stroke-width="1.5"/>
+<text x="414" y="341" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#8A5A0A" text-anchor="start">Ordem de chegada</text>
+<text x="414" y="367" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Quem entra antes segue</text>
+<text x="414" y="391" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">na frente no checkout.</text>
+<line x1="412" y1="426" x2="708" y2="426" stroke="#F0D7A8" stroke-width="1.5"/>
+<text x="414" y="458" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#8A5A0A" text-anchor="start">Admissão</text>
+<text x="414" y="484" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Libera a cabeça da fila.</text>
+<text x="414" y="508" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Lote = min(estoque, capacidade)</text>
+<rect x="762" y="136" width="332" height="408" rx="16" fill="#E7F6EE"/>
+<path d="M 778 136 H 1078 Q 1094 136 1094 152 V 192 H 762 V 152 Q 762 136 778 136 Z" fill="#1E8A4C"/>
+<text x="782" y="171" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">3   ·   Venda com estoque</text>
+<text x="782" y="224" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#146338" text-anchor="start">Reserva atômica</text>
+<text x="782" y="250" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Só decrementa se há saldo.</text>
+<text x="782" y="274" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Cria reserva com prazo.</text>
+<line x1="780" y1="309" x2="1076" y2="309" stroke="#C6E6D4" stroke-width="1.5"/>
+<text x="782" y="341" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#146338" text-anchor="start">Pagamento</text>
+<text x="782" y="367" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Começa apenas com reserva.</text>
+<text x="782" y="391" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Um cliente, um ingresso.</text>
+<line x1="780" y1="426" x2="1076" y2="426" stroke="#C6E6D4" stroke-width="1.5"/>
+<text x="782" y="458" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#146338" text-anchor="start">Confirmação</text>
+<text x="782" y="484" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Venda só após o pagamento.</text>
+<text x="782" y="508" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="400" fill="#1C2836" text-anchor="start">Se falha ou expira, devolve.</text>
+<line x1="362" y1="340.0" x2="386" y2="340.0" stroke="#243140" stroke-width="2.2" marker-end="url(#arrow)"/>
+<line x1="730" y1="340.0" x2="754" y2="340.0" stroke="#243140" stroke-width="2.2" marker-end="url(#arrow)"/>
+<g clip-path="url(#clip-store-1)">
+<rect x="26" y="564" width="332" height="140" fill="#FFFFFF"/>
+<rect x="26" y="564" width="332" height="7" fill="#1F6FA5"/>
+</g>
+<rect x="26" y="564" width="332" height="140" rx="14" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="46" y="600" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#14527A" text-anchor="start">Sem estado de venda</text>
+<text x="46" y="628" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">A CDN não guarda ingresso.</text>
+<text x="46" y="650" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">Não há fila nem estoque aqui.</text>
+<text x="46" y="672" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">O pico não vira venda.</text>
+<g clip-path="url(#clip-store-2)">
+<rect x="394" y="564" width="332" height="140" fill="#FFFFFF"/>
+<rect x="394" y="564" width="332" height="7" fill="#C4841A"/>
+</g>
+<rect x="394" y="564" width="332" height="140" rx="14" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="414" y="600" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#8A5A0A" text-anchor="start">Redis</text>
+<text x="414" y="628" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">Posição da fila e o estoque.</text>
+<text x="414" y="650" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">Reserva atômica, com prazo.</text>
+<text x="414" y="672" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">Serve a admissão e a venda.</text>
+<g clip-path="url(#clip-store-3)">
+<rect x="762" y="564" width="332" height="140" fill="#FFFFFF"/>
+<rect x="762" y="564" width="332" height="7" fill="#1E8A4C"/>
+</g>
+<rect x="762" y="564" width="332" height="140" rx="14" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="782" y="600" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#146338" text-anchor="start">Pedido e ingresso</text>
+<text x="782" y="628" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">Postgres grava a venda paga.</text>
+<text x="782" y="650" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">Eventos geram o QR e o e-mail.</text>
+<text x="782" y="672" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#1C2836" text-anchor="start">A emissão não trava o caixa.</text>
+<rect x="26" y="724" width="1068" height="58" rx="12" fill="#FDEEEE" stroke="#F3C9C9" stroke-width="1.5"/>
+<text x="560" y="760" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#8E2A2A" text-anchor="middle">Se o pagamento falha, o cliente cancela ou a reserva expira, o ingresso volta ao estoque.</text>
+<rect x="26" y="802" width="1068" height="112" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="46" y="838" width="44" height="40" rx="10" fill="#1F6FA5"/>
+<text x="68" y="864" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">01</text>
+<text x="108" y="844" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#1C2836" text-anchor="start">Fila justa</text>
+<text x="108" y="872" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#4E5D6E" text-anchor="start">A posição nasce no servidor, quando a pessoa entra na sala, não quando o pagamento termina.</text>
+<text x="108" y="894" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#4E5D6E" text-anchor="start">Rede mais lenta só atrasa essa entrada. Na fila, ninguém passa à frente por ser mais rápido.</text>
+<rect x="26" y="926" width="1068" height="112" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="46" y="962" width="44" height="40" rx="10" fill="#1E8A4C"/>
+<text x="68" y="988" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">02</text>
+<text x="108" y="968" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#1C2836" text-anchor="start">Sem ingresso inexistente</text>
+<text x="108" y="996" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#4E5D6E" text-anchor="start">O estoque muda numa operação só: se há ingresso, decrementa e reserva com prazo para o cliente.</text>
+<text x="108" y="1018" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#4E5D6E" text-anchor="start">Pagamento negado, cancelamento ou prazo vencido devolve a unidade. Retentativa não compra de novo.</text>
+<rect x="26" y="1050" width="1068" height="112" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="46" y="1086" width="44" height="40" rx="10" fill="#C4841A"/>
+<text x="68" y="1112" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">03</text>
+<text x="108" y="1092" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#1C2836" text-anchor="start">Independente da demanda</text>
+<text x="108" y="1120" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#4E5D6E" text-anchor="start">A borda e a sala de espera escalam com qualquer pico. O caixa só vê quem recebeu o passe.</text>
+<text x="108" y="1142" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="15" font-weight="400" fill="#4E5D6E" text-anchor="start">O lote segue o estoque e a capacidade de pagamento, não a quantidade de pessoas na fila.</text>
+</svg>
